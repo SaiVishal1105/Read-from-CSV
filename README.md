@@ -29,7 +29,7 @@ print("No. of Columns:",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2024-01-03 193846.png>)
+![Alt text](<Screenshot 2024-01-03 194905.png>)
 
 ## RESULT:
 The Output is verified successfully
